@@ -1,0 +1,13 @@
+{
+    "barang": [],
+    "transaksi": [],
+    "kategori": [
+        "Processor",
+        "Motherboard",
+        "RAM",
+        "SSD/HDD",
+        "VGA",
+        "Power Supply",
+        "Casing"
+    ]
+}
